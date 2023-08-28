@@ -1,3 +1,8 @@
+# Aenderungen durch Herrn Luettge
+Erste Aenderung 
+Zweite Aenderung
+Keine Aenderung 
+
 # Google Research Football
 
 This repository contains an RL environment based on open-source game Gameplay
